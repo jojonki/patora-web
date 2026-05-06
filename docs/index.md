@@ -4,7 +4,7 @@ title: Patora — Film Camera Logbook & Manager
 ---
 
 <div style="text-align:center; padding: 2rem 0 1rem;">
-  <img src="../images/patora.png" alt="Patora" width="96" style="border-radius:20px; margin-bottom:1rem;" />
+  <img src="images/patora.png" alt="Patora" width="96" style="border-radius:20px; margin-bottom:1rem;" />
   <h1 style="margin:0;">Patora</h1>
   <p style="color:#888; font-size:1.1rem; margin:0.5rem 0 1.5rem;">Film Camera Logbook &amp; Manager</p>
   <!-- Replace href with your App Store link -->
@@ -26,11 +26,11 @@ Do you know which film is loaded in which camera?
 ## Screenshots
 
 <div style="display:flex; gap:12px; overflow-x:auto; padding:1rem 0;">
-  <img src="../images/screenshots/IMG_9830.PNG" alt="Cameras" width="180" style="border-radius:12px; flex-shrink:0;" />
-  <img src="../images/screenshots/IMG_9833.PNG" alt="Films" width="180" style="border-radius:12px; flex-shrink:0;" />
-  <img src="../images/screenshots/IMG_9834.PNG" alt="Darkroom" width="180" style="border-radius:12px; flex-shrink:0;" />
-  <img src="../images/screenshots/IMG_9835.PNG" alt="Shot Notes" width="180" style="border-radius:12px; flex-shrink:0;" />
-  <img src="../images/screenshots/IMG_9832.PNG" alt="Lenses" width="180" style="border-radius:12px; flex-shrink:0;" />
+  <img src="images/screenshots/IMG_9830.PNG" alt="Cameras" width="180" style="border-radius:12px; flex-shrink:0;" />
+  <img src="images/screenshots/IMG_9833.PNG" alt="Films" width="180" style="border-radius:12px; flex-shrink:0;" />
+  <img src="images/screenshots/IMG_9834.PNG" alt="Darkroom" width="180" style="border-radius:12px; flex-shrink:0;" />
+  <img src="images/screenshots/IMG_9835.PNG" alt="Shot Notes" width="180" style="border-radius:12px; flex-shrink:0;" />
+  <img src="images/screenshots/IMG_9832.PNG" alt="Lenses" width="180" style="border-radius:12px; flex-shrink:0;" />
 </div>
 
 ---
