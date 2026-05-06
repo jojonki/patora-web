@@ -102,7 +102,7 @@ Apple's standard [iCloud Privacy Policy](https://www.apple.com/legal/privacy/) a
 
 Have a question or found a bug? We'd love to hear from you.
 
-📧 [junki.ohmura@gmail.com](mailto:junki.ohmura@gmail.com)
+📧 [patora.support@gmail.com](mailto:patora.support@gmail.com)
 
 ---
 
